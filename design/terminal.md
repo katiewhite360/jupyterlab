@@ -26,7 +26,7 @@ Some things they would do in the terminal include:
 
 ## Student learning the terminal in a Software Carpentry Workshop
 
-Complete this persona...
+
 
 # User tasks
 
